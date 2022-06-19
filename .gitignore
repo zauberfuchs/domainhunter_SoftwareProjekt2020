@@ -1,0 +1,5 @@
+__pycache__/
+*.log*
+*.save
+Code/WIP/Reports/
+test*

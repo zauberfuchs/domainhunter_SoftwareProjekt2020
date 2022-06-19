@@ -1,0 +1,82 @@
+.af National Directorate of Security 
+.ar Secretaria de Inteligencia
+.au Australian Secret Intelligence Service 
+.au Defense Signals Directorate 
+.be Service Generale des Renseingnements 
+.br Angecia Brasiliera de Inteligencia 
+.bg Natsionalja Sluzhba za Sigurnost bulgaria
+.cl Agencia Nacional de Inteligencia 
+.cn Guojia Anaquaan bu 
+.dk Forsvarets Efterretningstjeneste 
+.dk Politiets Efterretningstjeneste 
+.de Bundesnachrichtendienst 
+.de Bundesamt für Verfassungsschutz 
+.de Militärischer Abschirmdienst 
+.de Bundesamt für Sicherheit in der Informationstechnik 
+.ee Kaitsepolitsei
+.fi Suojelupoliisi
+.fr Surete Nationale 
+.fr Renseignements Generaux 
+.fr Direction de la Surveillance du Territoire 
+.fr Direction de la Protection et de la Securite de la Defense 
+.fr Direction Generale de la Securite Exterieure 
+.fr Brigade de Renseignement et de Guerre Electro-nique 
+.fr Direction du Renseignement Militaire 
+.gr National Intelligence Service 
+.nl Militaire Inlichtigen- en Veiligheidsdienst 
+.nl Algemene Inlichtingen- en Veiligheidsdienst 
+.nl Nationale Sigint Organisatie
+.in Research and Analysis Wing 
+.in Intelligence Bureau 
+.in Central Bureau of Investigation 
+.il Mossad gov
+.il Shin Bet 
+.il Agaf ha-Modi in 
+.it Dipartimento delle Informazioni per la Sicurezza 
+.it Agenzia Informatione e Sicurezza Esterna 
+.it Centro Intelligence Interforze 
+.jp Naikaku Joho Chosashitsu 
+.jp Koanchosa Cho 
+.jp Joho-hombu 
+.jp Kokusai Joho Tokatsukan 
+.jp Gaiji-Joho-bu 
+.jp JETRO 
+.ca Communications Security Establishment 
+.ly Anm Al-Jamahiriya 
+.lt Valstybes saugumo departamentas 
+.pk Intelligence Bureau  
+.se Säkerhetspolisen 
+.se Militära underrättelse- och säkerhetsjänsten 
+.se Försvarets radioanstalt 
+.sy Indarat Al-Mukhabarat Al-Amma 
+.tr Milli Istihbarat Teskilati 
+.uk GCHQ 
+.us CIA 
+.us NSA 
+.us FBI
+.org un
+.org international monetary fund
+.org FAO
+.org IFAD
+.org ILO
+.org IMO
+.org UNESCO org
+.org UNIDO
+.org IFC
+.org UNWTO
+.org African Agricultural Technology Foundation (AATF)
+.org Action Against Hunger
+.org ActionAid
+.org Aflatoun
+.org amnesty international global
+.org Ashoka
+.org International Federation for Human Rights
+.org greenpeace international
+.org Human Rights Watch
+.org International Bridges to Justice
+.org Lutheran World Relief
+.org Plastic Pollution Coalition
+.org unicef international
+.int WHO
+.int WIPO
+.int International Criminal Court

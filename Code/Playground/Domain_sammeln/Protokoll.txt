@@ -1,0 +1,303 @@
+Start: Wed Dec 16 04:56:00 2020
+Gesucht: National Directorate of Security
+gefundene Domains: ['facebook.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'prev.ocs.gov.af', 'thediplomat.com', 'ndtv.com', 'researchgate.net', 'facebook.com']
+ausgew‰hlte Domains: {'prev.ocs.gov.af'}
+
+Gesucht: Secretaria de Inteligencia
+gefundene Domains: ['en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'sie.gob.gt', 'argentina.gob.ar', 'argentina.gob.ar', 'argentina.gob.ar', 'argentina.gob.ar']
+ausgew‰hlte Domains: {'argentina.gob.ar'}
+
+Gesucht: Australian Secret Intelligence Service
+gefundene Domains: ['asis.gov.au', 'asis.gov.au', 'asis.gov.au', 'asis.gov.au', 'asis.gov.au', 'jamesbond.fandom.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'asis.gov.au'}
+
+Gesucht: Defense Signals Directorate
+gefundene Domains: ['asd.gov.au', 'asd.gov.au', 'asd.gov.au', 'asd.gov.au', 'asd.gov.au', 'asd.gov.au', 'cn.linkedin.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'asd.gov.au'}
+
+Gesucht: Service Generale des Renseingnements
+gefundene Domains: ['en.wikipedia.org', 'de.wikipedia.org', 'vsse.be', 'linguee.de', 'comiteri.be', 'academie-renseignement.gouv.fr', 'interieur.gouv.fr', 'ejustice.just.fgov.be', 'francearchives.fr', 'amazon.fr']
+ausgew‰hlte Domains: {'ejustice.just.fgov.be', 'vsse.be', 'comiteri.be'}
+
+Gesucht: Angecia Brasiliera de Inteligencia
+gefundene Domains: ['gov.br', 'gov.br', 'gov.br', 'gov.br', 'gov.br', 'en.wikipedia.org', 'gov.br', 'de.wikipedia.org', 'de-de.facebook.com', 'facebook.com']
+ausgew‰hlte Domains: {'gov.br'}
+
+Gesucht: Natsionalja Sluzhba za Sigurnost bulgaria
+gefundene Domains: ['en.wikipedia.org', 'dans.bg', 'bg.wikipedia.org', 'bg.wikipedia.org', 'bg.wikipedia.org', 'bg.wikipedia.org', 'bg.wikipedia.org', 'bg.wikipedia.org', 'dar.bg', 'minfin.bg']
+ausgew‰hlte Domains: {'dans.bg', 'dar.bg', 'minfin.bg'}
+
+Gesucht: Agencia Nacional de Inteligencia
+gefundene Domains: ['awake-chile.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'es.wikipedia.org', 'es.wikipedia.org', 'es.wikipedia.org', 'es.wikipedia.org', 'es.wikipedia.org', 'dipres.gob.cl']
+ausgew‰hlte Domains: {'dipres.gob.cl'}
+
+Gesucht: Guojia Anaquaan bu
+gefundene Domains: ['commons.wikimedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'perrypedia.de']
+ausgew‰hlte Domains: set()
+
+Gesucht: Forsvarets Efterretningstjeneste
+gefundene Domains: ['fe-ddis.dk', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'linkedin.com', 'de.linkedin.com', 'de.bab.la', 'netzpolitik.org', 'fmn.dk']
+ausgew‰hlte Domains: {'fmn.dk', 'fe-ddis.dk'}
+
+Gesucht: Politiets Efterretningstjeneste
+gefundene Domains: ['pet.dk', 'pet.dk', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'denstoredanske.lex.dk', 'fra.europa.eu']
+ausgew‰hlte Domains: {'pet.dk', 'denstoredanske.lex.dk'}
+
+Gesucht: Bundesnachrichtendienst
+gefundene Domains: ['bnd.bund.de', 'bnd.bund.de', 'bnd.bund.de', 'bnd.bund.de', 'bnd.bund.de', 'bnd.bund.de', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'bnd.bund.de'}
+
+Gesucht: Bundesamt f√ºr Verfassungsschutz
+gefundene Domains: ['verfassungsschutz.de', 'verfassungsschutz.de', 'verfassungsschutz.de', 'verfassungsschutz.de', 'verfassungsschutz.de', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'verfassungsschutz.de'}
+
+Gesucht: Milit√§rischer Abschirmdienst
+gefundene Domains: ['commons.wikimedia.org', 'en.wikipedia.org', 'sueddeutsche.de', 'amazon.co.uk', 'de.finance.yahoo.com', 'universal_lexikon.deacademic.com', 'newdocs.de', 'amazon.ca', 'proimeq.cl', 'link.springer.com']
+ausgew‰hlte Domains: {'newdocs.de', 'sueddeutsche.de'}
+
+Gesucht: Bundesamt f√ºr Sicherheit in der Informationstechnik
+gefundene Domains: ['bsi.bund.de', 'bsi.bund.de', 'bsi.bund.de', 'bsi.bund.de', 'bsi.bund.de', 'bsi.bund.de', 'bsi-fuer-buerger.de', 'en.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org']
+ausgew‰hlte Domains: {'bsi-fuer-buerger.de', 'bsi.bund.de'}
+
+Gesucht: Kaitsepolitsei
+gefundene Domains: ['kapo.ee', 'facebook.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'twitter.com', 'twitter.com', 'riigiteataja.ee', 'acronyms.thefreedictionary.com']
+ausgew‰hlte Domains: {'riigiteataja.ee', 'kapo.ee'}
+
+Gesucht: Suojelupoliisi
+gefundene Domains: ['supo.fi', 'supo.fi', 'en.wikipedia.org', 'de.wikipedia.org', 'linkedin.com', 'twitter.com', 'hs.fi', 'yle.fi', 'yle.fi', 'duunitori.fi']
+ausgew‰hlte Domains: {'hs.fi', 'supo.fi', 'yle.fi', 'duunitori.fi'}
+
+Gesucht: Surete Nationale
+gefundene Domains: ['de.wikipedia.org', 'en.wikipedia.org', 'sherlockholmes.fandom.com', 'linguee.de', 'wikiwand.com', 'wikiwand.com', 'm.interglot.com', 'etsy.com', 'linguee.com', 'de-de.facebook.com']
+ausgew‰hlte Domains: set()
+
+Gesucht: Renseignements Generaux
+gefundene Domains: ['en.wikipedia.org', 'de.wikipedia.org', 'contre-info.com', 'imdb.com', 'youtube.com', 'de.pons.com', 'linguee.de', 'linguee.com', 'collinsdictionary.com', 'universalis.fr']
+ausgew‰hlte Domains: {'universalis.fr'}
+
+Gesucht: Direction de la Surveillance du Territoire
+gefundene Domains: ['en.wikipedia.org', 'de.wikipedia.org', 'interieur.gouv.fr', 'policenationale.gouv.sn', 'fas.org', 'universalis.fr', 'linguee.com', 'linguee.com', 'intelligenceonline.com', 'data.bnf.fr']
+ausgew‰hlte Domains: {'interieur.gouv.fr', 'universalis.fr', 'data.bnf.fr'}
+
+Gesucht: Direction de la Protection et de la Securite de la Defense
+gefundene Domains: ['ar.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'fr.wikipedia.org', 'defense.gouv.fr', 'lannuaire.service-public.fr', 'allgov.com', 'fas.org']
+ausgew‰hlte Domains: {'defense.gouv.fr', 'lannuaire.service-public.fr'}
+
+Gesucht: Direction Generale de la Securite Exterieure
+gefundene Domains: ['defense.gouv.fr', 'en.wikipedia.org', 'defense.gouv.fr', 'defense.gouv.fr', 'defense.gouv.fr', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'linkedin.com']
+ausgew‰hlte Domains: {'defense.gouv.fr'}
+
+Gesucht: Brigade de Renseignement et de Guerre Electro-nique
+gefundene Domains: ['fr.wikipedia.org', 'fr.wikipedia.org', 'fr.wikipedia.org', 'fr.wikipedia.org', 'fr.wikipedia.org', 'de.wikipedia.org', 'fas.org', 'european-security.com', 'ebay.fr', 'defense.gouv.fr']
+ausgew‰hlte Domains: {'defense.gouv.fr', 'ebay.fr'}
+
+Gesucht: Direction du Renseignement Militaire
+gefundene Domains: ['en.wikipedia.org', 'defense.gouv.fr', 'defense.gouv.fr', 'defense.gouv.fr', 'defense.gouv.fr', 'de.wikipedia.org', 'asafrance.fr', 'legifrance.gouv.fr', 'cf2r.org', 'cairn.info']
+ausgew‰hlte Domains: {'defense.gouv.fr', 'asafrance.fr', 'legifrance.gouv.fr'}
+
+Gesucht: National Intelligence Service
+gefundene Domains: ['wikiwand.com', 'en.wikipedia.org', 'nis.go.ke', 'nis.go.ke', 'nis.go.ke', 'nis.go.ke', 'nis.go.ke', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: set()
+
+Gesucht: Militaire Inlichtigen- en Veiligheidsdienst
+gefundene Domains: ['en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'defensie.nl', 'defensie.nl', 'rijksoverheid.nl', 'rijksoverheid.nl', 'werkenvoornederland.nl', 'werkenbijdefensie.nl']
+ausgew‰hlte Domains: {'werkenvoornederland.nl', 'werkenbijdefensie.nl', 'rijksoverheid.nl', 'defensie.nl'}
+
+Gesucht: Algemene Inlichtingen- en Veiligheidsdienst
+gefundene Domains: ['aivd.nl', 'wikiwand.com', 'en.wikipedia.org', 'aivd.nl', 'aivd.nl', 'aivd.nl', 'aivd.nl', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'aivd.nl'}
+
+Gesucht: Nationale Sigint Organisatie
+gefundene Domains: ['en.wikipedia.org', 'de.wikipedia.org', 'commons.wikimedia.org', 'aivd.nl', 'routeyou.com', 'wikidata.org', 'nl.qaz.wiki', 'de.qaz.wiki', 'burojansen.nl', 'villamedia.nl']
+ausgew‰hlte Domains: {'villamedia.nl', 'aivd.nl', 'burojansen.nl'}
+
+Gesucht: Research and Analysis Wing
+gefundene Domains: ['en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'allgov.com', 'cfr.org', 'facebook.com', 'thediplomat.com', 'britannica.com']
+ausgew‰hlte Domains: set()
+
+Gesucht: Intelligence Bureau
+gefundene Domains: ['javatpoint.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'mha.gov.in', 'mha.gov.in', 'freshersworld.com']
+ausgew‰hlte Domains: {'mha.gov.in'}
+
+Gesucht: Central Bureau of Investigation
+gefundene Domains: ['cbi.gov.in', 'cbi.gov.in', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'cbi.gov.in'}
+
+Gesucht: Mossad gov
+gefundene Domains: ['mossad.gov.il', 'mossad.gov.il', 'mossad.gov.il', 'en.wikipedia.org', 'gov.il', 'wikidata.org', 'crunchbase.com', 'facebook.com', 'dbpedia.org', 'rocketreach.co']
+ausgew‰hlte Domains: {'gov.il', 'mossad.gov.il'}
+
+Gesucht: Shin Bet
+gefundene Domains: ['ynetnews.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org']
+ausgew‰hlte Domains: set()
+
+Gesucht: Agaf ha-Modi in
+gefundene Domains: ['en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'fas.org']
+ausgew‰hlte Domains: set()
+
+Gesucht: Dipartimento delle Informazioni per la Sicurezza
+gefundene Domains: ['sicurezzanazionale.gov.it', 'angelotofalo.com', 'en.wikipedia.org', 'sicurezzanazionale.gov.it', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'twitter.com']
+ausgew‰hlte Domains: {'sicurezzanazionale.gov.it'}
+
+Gesucht: Agenzia Informatione e Sicurezza Esterna
+gefundene Domains: ['sicurezzanazionale.gov.it', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org']
+ausgew‰hlte Domains: {'sicurezzanazionale.gov.it'}
+
+Gesucht: Centro Intelligence Interforze
+gefundene Domains: ['de.wikipedia.org', 'it.wikipedia.org', 'it.wikipedia.org', 'it.wikipedia.org', 'it.wikipedia.org', 'difesa.it', 'difesa.it', 'indicepa.gov.it', 'm.facebook.com', 'waze.com']
+ausgew‰hlte Domains: {'indicepa.gov.it', 'difesa.it'}
+
+Gesucht: Naikaku Joho Chosashitsu
+gefundene Domains: ['wikiwand.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'deacademic.com', 'deacademic.com', 'worldcat.org', 'worldcat.org']
+ausgew‰hlte Domains: set()
+
+Gesucht: Koanchosa Cho
+gefundene Domains: ['en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'link.springer.com', 'moj.go.jp', 'moj.go.jp', 'commons.wikimedia.org', 'japantimes.co.jp', 'sensagent.com']
+ausgew‰hlte Domains: {'japantimes.co.jp', 'moj.go.jp'}
+
+Gesucht: Joho-hombu
+gefundene Domains: ['youtube.com', 'link.springer.com', 'docplayer.org', 'aasbk.com', 'ca.aasbk.com', 'sobukai-estonia.com', 'jstor.org', 'aikikaidecolombia.org', 'dnb.com', 'noctive.jp']
+ausgew‰hlte Domains: {'noctive.jp'}
+
+Gesucht: Kokusai Joho Tokatsukan
+gefundene Domains: ['link.springer.com', 'docplayer.org', 'worldcat.org', 'escholarship.org', 'viaf.org', 'viaf.org', 'stacks.stanford.edu', 'f.waseda.jp', 'scribd.com', 'repo-tkfd.jp']
+ausgew‰hlte Domains: {'repo-tkfd.jp', 'f.waseda.jp'}
+
+Gesucht: Gaiji-Joho-bu
+gefundene Domains: ['link.springer.com', 'en.wikipedia.org', 'en.wikipedia.org', 'amazon.de', 'de.qaz.wiki', 'store.gaijin.net', 'pinterest.com', 'amazon.com', 'goodreads.com', 'goodreads.com']
+ausgew‰hlte Domains: set()
+
+Gesucht: JETRO
+gefundene Domains: ['jetro.go.jp', 'jetro.go.jp', 'jetro.go.jp', 'jetro.go.jp', 'jetro.go.jp', 'en.wikipedia.org', 'jetro.go.jp', 'jetro.go.jp', 'jetro.go.jp', 'de.wikipedia.org']
+ausgew‰hlte Domains: {'jetro.go.jp'}
+
+Gesucht: Communications Security Establishment
+gefundene Domains: ['cleanpng.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'simple.wikipedia.org', 'cse-cst.gc.ca', 'cse-cst.gc.ca', 'cse-cst.gc.ca']
+ausgew‰hlte Domains: {'cse-cst.gc.ca'}
+
+Gesucht: Anm Al-Jamahiriya
+gefundene Domains: ['link.springer.com', 'jstor.org', 'salatimes.com', 'files.ethz.ch', 'ecoi.net', 'icj-cij.org', 'icj-cij.org', 'zaoerv.de', 'institut-fuer-menschenrechte.de', 'publishup.uni-potsdam.de']
+ausgew‰hlte Domains: set()
+
+Gesucht: Valstybes saugumo departamentas
+gefundene Domains: ['vsd.lt', 'vsd.lt', 'en.wikipedia.org', 'rekvizitai.vz.lt', 'delfi.lt', 'alkas.lt', 'lrvalstybe.lt', 'dnb.com', 'e-seimas.lrs.lt', '15min.lt']
+ausgew‰hlte Domains: {'delfi.lt', 'alkas.lt', '15min.lt', 'lrvalstybe.lt', 'vsd.lt', 'rekvizitai.vz.lt', 'e-seimas.lrs.lt'}
+
+Gesucht: Intelligence Bureau
+gefundene Domains: ['javatpoint.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'mha.gov.in', 'mha.gov.in', 'freshersworld.com']
+ausgew‰hlte Domains: set()
+
+Gesucht: S√§kerhetspolisen
+gefundene Domains: ['sakerhetspolisen.se', 'en.wikipedia.org', 'libris.kb.se', 'chrisbrownmusic.com', 'regeringen.se', 'aftonbladet.se', 'thelocal.se', 'polisen.se', 'ft.dk', 'alfashirt.de']
+ausgew‰hlte Domains: {'libris.kb.se', 'sakerhetspolisen.se', 'thelocal.se', 'aftonbladet.se', 'regeringen.se', 'polisen.se'}
+
+Gesucht: Milit√§ra underr√§ttelse- och s√§kerhetsj√§nsten
+gefundene Domains: ['de.wikipedia.org', 'nn.wikipedia.org', 'youtube.com', 'europeanparatroopers.org', 'evropaelire.org', 'milforum.net']
+ausgew‰hlte Domains: set()
+
+Gesucht: F√∂rsvarets radioanstalt
+gefundene Domains: ['ft.dk', 'ft.dk', '28dayslater.co.uk', 'tripstevens.com', 'jure.se', 'jure.se', 'retro.lagen.nu', 'ww-article-cache-1.s3.amazonaws.com', 'ww-article-cache-1.s3.amazonaws.com', 'ministryofart.se']
+ausgew‰hlte Domains: {'ministryofart.se', 'jure.se'}
+
+Gesucht: Indarat Al-Mukhabarat Al-Amma
+gefundene Domains: ['en.wikipedia.org', 'en.wikipedia.org', 'link.springer.com', 'fas.org', 'fas.org', 'invisible-dog.com', 'docplayer.org', 'ibraaz.org', 'zmo.de', 'thefreedictionary.com']
+ausgew‰hlte Domains: set()
+
+Gesucht: Milli Istihbarat Teskilati
+gefundene Domains: ['mit.gov.tr', 'mit.gov.tr', 'defence.pk', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'turkiye.gov.tr', 'eksisozluk.com']
+ausgew‰hlte Domains: {'turkiye.gov.tr', 'mit.gov.tr'}
+
+Gesucht: GCHQ
+gefundene Domains: ['gchq.gov.uk', 'gchq.gov.uk', 'gchq.gov.uk', 'gchq.gov.uk', 'gchq.gov.uk', 'gchq.gov.uk', 'gchq.gov.uk', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'gchq.gov.uk'}
+
+Gesucht: CIA
+gefundene Domains: ['cia.gov', 'cia.gov', 'cia.gov', 'cia.gov', 'cia.gov', 'en.wikipedia.org', 'cia.gov', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'cia.gov'}
+
+Gesucht: NSA
+gefundene Domains: ['en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'nsa.gov', 'commons.wikimedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org', 'de.wikipedia.org']
+ausgew‰hlte Domains: {'nsa.gov'}
+
+Gesucht: FBI
+gefundene Domains: ['fbi.gov', 'fbi.gov', 'fbi.gov', 'fbi.gov', 'fbi.gov', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'fbi.gov']
+ausgew‰hlte Domains: {'fbi.gov'}
+
+Gesucht: un
+gefundene Domains: ['un.org', 'un.org', 'careers.un.org', 'un.org', 'news.un.org', 'logos-download.com', 'en.wikipedia.org', 'un.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'careers.un.org', 'news.un.org', 'un.org'}
+
+Gesucht: international monetary fund
+gefundene Domains: ['imf.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'investopedia.com', 'bundesbank.de', 'britannica.com', 'linkedin.com']
+ausgew‰hlte Domains: {'imf.org'}
+
+Gesucht: FAO
+gefundene Domains: ['fao.org', 'en.wikipedia.org', 'fao.org', 'twitter.com', 'twitter.com', 'twitter.com', 'twitter.com', 'fao.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'fao.org'}
+
+Gesucht: IFAD
+gefundene Domains: ['ifad.org', 't2.gstatic.com', 'en.wikipedia.org', 'twitter.com', 'twitter.com', 'twitter.com', 'twitter.com', 'de.wikipedia.org', 'ifad.de', 'greenclimate.fund']
+ausgew‰hlte Domains: {'ifad.org'}
+
+Gesucht: ILO
+gefundene Domains: ['ilo.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'twitter.com', 'twitter.com', 'twitter.com', 'twitter.com', 'bmas.de']
+ausgew‰hlte Domains: {'ilo.org'}
+
+Gesucht: IMO
+gefundene Domains: ['imo.im', 'imo.org', 'apps.apple.com', 'apps.apple.com', 'twitter.com', 'twitter.com', 'twitter.com', 'twitter.com', 'en.wikipedia.org', 'imoapp.com']
+ausgew‰hlte Domains: {'imo.org'}
+
+Gesucht: UNESCO org
+gefundene Domains: ['en.unesco.org', 'whc.unesco.org', 'en.unesco.org', 'careers.unesco.org', 'en.unesco.org', 'whc.unesco.org', 'en.unesco.org', 'en.wikipedia.org', 'de.wikipedia.org', 'linkedin.com']
+ausgew‰hlte Domains: {'whc.unesco.org', 'careers.unesco.org', 'en.unesco.org'}
+
+Gesucht: UNIDO
+gefundene Domains: ['unido.org', 'facebook.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'twitter.com', 'twitter.com']
+ausgew‰hlte Domains: {'unido.org'}
+
+Gesucht: IFC
+gefundene Domains: ['ifc.org', 't2.gstatic.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'de.wikipedia.org', 'ifc.com', 'linkedin.com']
+ausgew‰hlte Domains: {'ifc.org'}
+
+Gesucht: UNWTO
+gefundene Domains: ['unwto.org', 'en.wikipedia.org', 'twitter.com', 'twitter.com', 'twitter.com', 'twitter.com', 'e-unwto.org', 'de.wikipedia.org', 'bmwi.de', 'facebook.com']
+ausgew‰hlte Domains: {'unwto.org', 'e-unwto.org'}
+
+Gesucht: African Agricultural Technology Foundation (AATF)
+gefundene Domains: ['aatf-africa.org', 'devex.com', 'ifpri.org', 'cimmyt.org', 'ke.linkedin.com', 'de-de.facebook.com', 'jeuneafrique.com', 'guidestar.org', 'ccafs.cgiar.org', 'sidley.com']
+ausgew‰hlte Domains: {'ifpri.org', 'guidestar.org', 'aatf-africa.org', 'ccafs.cgiar.org', 'cimmyt.org'}
+
+Gesucht: Action Against Hunger
+gefundene Domains: ['actionagainsthunger.org', 'en.wikipedia.org', 'de.wikipedia.org', 'actionagainsthunger.ca', 'preventionweb.net', 'poverty-action.org', 'linkedin.com', 'ec.europa.eu', 'reliefweb.int', 'twitter.com']
+ausgew‰hlte Domains: {'actionagainsthunger.org', 'poverty-action.org'}
+
+Gesucht: ActionAid
+gefundene Domains: ['actionaid.org', 'actionaid.org', 'actionaid.org', 'actionaid.org', 'kenya.actionaid.org', 'actionaid.org', 'facebook.com', 'en.wikipedia.org', 'actionaid.org.uk', 'actionaid.org.uk']
+ausgew‰hlte Domains: {'actionaid.org', 'kenya.actionaid.org'}
+
+Gesucht: Aflatoun
+gefundene Domains: ['aflatoun.org', 'aflatoun.org', 'en.wikipedia.org', 'twitter.com', 'twitter.com', 'twitter.com', 'twitter.com', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'aflatoun.org'}
+
+Gesucht: amnesty international global
+gefundene Domains: ['amnesty.org', 'amnesty.org', 'amnesty.org', 'amnesty.org', 'amnesty.org', 'en.wikipedia.org', 'amnesty.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'amnesty.org'}
+
+Gesucht: Ashoka
+gefundene Domains: ['ashoka.org', 'ashoka.org', 'ashoka.org', 'ashoka.org', 'ashoka.org', 'ashoka.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'ashoka.org'}
+
+Gesucht: International Federation for Human Rights
+gefundene Domains: ['fidh.org', 'fidh.org', 'fidh.org', 'fidh.org', 'fidh.org', 'fidh.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org']
+ausgew‰hlte Domains: {'fidh.org'}
+
+Gesucht: greenpeace international
+gefundene Domains: ['greenpeace.org', 'commons.wikimedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'twitter.com', 'twitter.com', 'twitter.com']
+ausgew‰hlte Domains: {'commons.wikimedia.org', 'greenpeace.org'}
+
+Gesucht: Human Rights Watch
+gefundene Domains: ['hrw.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'en.wikipedia.org', 'twitter.com', 'twitter.com', 'twitter.com', 'twitter.com']
+ausgew‰hlte Domains: {'hrw.org'}
+
+Ein Fehler ist aufgetreten. 
+Ende: Wed Dec 16 05:10:05 2020
